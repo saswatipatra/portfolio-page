@@ -33,9 +33,28 @@ hr {
   border-width:medium;
 }
 .box{
+  align-content:center;
+  align-items: center;
   margin: 12px;
   border: 2px solid green;
   padding: 4px;
-  background-color: orange;
+  background-color: #F4A591;
 
+}
+h1 {
+  font-style: italic;
+  text-align: center;
+}
+.box1{
+  align-content:center;
+  align-items: center;
+  margin: 12px;
+  border: 2px #AAA7A7
+  padding: 4px;
+  background-color: #9ABDCB;
+
+}
+.special{
+  font-style: italic;
+  font-weight: bold;
 }
