@@ -6,11 +6,18 @@ p {
   text-align: center;
 }
 
-.back-color {
-  background: #ffe4e1;
+.back-color1 {
+  background: #D3CFCE;
 }
 
+.back-color2 {
+  background: #AAA7A7  ;
+}
+.back-color3 {
+  background: #9ABDCB ;
+}
 .rounded {
+  font-size: 20;
   border-radius: 10px;
 }
 .sidebar-font {
@@ -19,4 +26,9 @@ p {
   font-size: 20;
   padding-right:10%;
   line-height: 20px;
+}
+hr {
+  display:grid;
+ border-color: #437674;
+  border-width:medium;
 }
