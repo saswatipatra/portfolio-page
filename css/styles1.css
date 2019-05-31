@@ -58,3 +58,9 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
+p{
+  text-align: left;
+}
+h6{
+  text-decoration: underline;
+}
