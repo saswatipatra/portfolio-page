@@ -12,8 +12,8 @@ _This webpage will display my portfolio. With the help of programming technology
 
 * _Open the Terminal (Mac) or Git Bash (PC)_
 * _Go to the dir. where you would like to install the file. (for ex. computer-name:~ Guest$ cd desktop_
-* _To make a copy of a repository from Github on a local machine computer-name:desktop Guest$ git clone https://github.com/AnthonyGolovin/my-first-webpage)._
-* _4. Hola a new file should appear named "my-first-webpage", simply click on the HTML file. _
+* _To make a copy of a repository from Github on a local machine computer-name:desktop Guest$ git clone https://github.com/saswatipatra/portfolio-page)._
+* _4. Hola a new file should appear named "portfolio page", simply click on the HTML file. _
 
 ## Support and contact details
 
@@ -32,6 +32,11 @@ Feel free to get in contact with any questions, concerns, or if you want to make
 * _Atom_
 * _web Explorer_
 * _Terminal_
+
+
+## Page link
+https://saswatipatra.github.io/portfolio-page/
+
 
 ### License
 
